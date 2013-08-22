@@ -13,7 +13,7 @@
 
 	<properties>
 		<next-release>0.0.2-SNAPSHOT</next-release>
-		<tycho-version>0.17.0-SNAPSHOT</tycho-version>
+		<tycho-version>0.17.0</tycho-version>
 		<tychoExtrasVersion>0.17.0-SNAPSHOT</tychoExtrasVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
